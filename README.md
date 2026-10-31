@@ -14,7 +14,7 @@
 
 ## Demo
 
-**YouTube demo: https://youtu.be/soR6AOx2jcg**
+**YouTube demo: [▶ Watch the demo on YouTube](https://youtu.be/soR6AOx2jcg)**
 
 ## Overview
 
