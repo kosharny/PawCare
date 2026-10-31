@@ -1,0 +1,217 @@
+{
+  "generatedDate": "2026-10-25",
+  "tool": "built-in image_gen",
+  "brief": "docs/article-image-briefs-ru.txt",
+  "style": "Warm natural editorial photography; generated images, not real photographs.",
+  "export": {
+    "width": 1600,
+    "height": 900,
+    "colorSpace": "sRGB",
+    "alpha": false,
+    "format": "WebP",
+    "quality": 90,
+    "method": 6,
+    "fit": "ContentScale.Crop",
+    "sourcePolicy": "Preserve unmodified generated PNG masters; archive previous vector resources."
+  },
+  "assets": [
+    {
+      "name": "article_sniff_walk",
+      "role": "cover",
+      "generatedSource": "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-75d1970e-0dda-47e7-9617-63193ed0db5a.png",
+      "source": "artwork/articles/sources/article_sniff_walk.png",
+      "resource": "app/src/main/res/drawable-nodpi/article_sniff_walk.webp",
+      "prompt": "Use case: photorealistic-natural. Create one production editorial photograph for PawCare mobile pet-care app, asset article_sniff_walk. Landscape 16:9, ideally 1600x900 or higher matching ratio, opaque sRGB.\nA realistic adult medium-sized mixed-breed dog, soft light ginger short-to-medium fur, darker floppy ears, small cream patch on chest, balanced slim healthy proportions, dark brown eyes and black nose, calmly sniffs safe grass beside a tidy pale park path. Full dog in left-middle, nose lowered, all four paws grounded, loose natural posture. A properly fitted simple forest-green Y harness connects to a leash hanging in a clearly slack soft U curve toward an adult owner standing still on the right, in beige trousers and muted green top, cropped above torso. Owner gives dog time, no pulling. Low camera at dog torso height, side three-quarter view. Deciduous trees, muted greens, warm overcast daylight, matte textures, moderate depth of field, readable environmental details. Warm milk #FAF8F4, forest green #426B57, sage #E6EEE7, apricot #F3C5A7 and natural wood tones. Natural candid feel, quiet and respectful, no glossy advertisement. Keep dog anatomy, harness, leash connection and hands within central 80% with generous crop safety at all edges. Main action reads as a small mobile card. Live title goes below image, so no large artificial empty text region.\nNo text, logo, watermark, phone UI, symbols, arrows, food on ground, traffic, crowd, running, taut leash, neon grass, cold blue cast, deep black shadows, excessive bokeh, 3D or illustration. One photo only, not a collage.",
+      "references": [],
+      "sourceDimensions": [
+        1672,
+        940
+      ],
+      "bytes": 325702
+    },
+    {
+      "name": "article_walk_pause",
+      "role": "inline",
+      "generatedSource": "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-613e215b-8c5f-4e19-8b1d-e4337cbc36cb.png",
+      "source": "artwork/articles/sources/article_walk_pause.png",
+      "resource": "app/src/main/res/drawable-nodpi/article_walk_pause.webp",
+      "prompt": "Use case: photorealistic-natural. One production editorial photograph for the PawCare mobile app, landscape 16:9, 1600x900 or larger equivalent ratio, opaque sRGB. Image reference is STYLE AND DOG IDENTITY REFERENCE, not an edit target: match precisely the same adult medium ginger mixed-breed dog with darker floppy ears, black nose, dark brown eyes, small cream chest patch, realistic balanced proportions and natural medium fur. Same adult owner when present: muted sage-green knit top and beige trousers. Quiet candid editorial photography, warm diffuse window/overcast daylight, matte materials, moderate depth of field, gentle contrast, restrained warm milk #FAF8F4, forest green #426B57, pale sage #E6EEE7, apricot #F3C5A7 and pale natural wood. No glossy advertising, neon greens, cold blue cast, black shadows, extreme bokeh, 3D or illustration. One clear scene only, no collage. Keep all important details inside central 80% of frame with crop-safe margins; show whole dog including paws and tail where present. Live text is placed BELOW picture: no artificial blank text region. No text, symbols, arrows, UI, watermark, logos or labels. Natural anatomy, realistic hands and objects.\nAsset: article_walk_pause.\nScene: A wider environmental frame of the reference dog and owner pausing BESIDE, not blocking, a pale path in the same type of quiet leafy park. Dog center-left exploring a small low shrub, calm loose body, forest-green Y harness, leash with clear slack U curve to owner on right. Owner stands sideways, relaxed hands, not leaning over dog and no phone. Full dog, full owner's legs with breathing room, quiet horizontal line of path, muted natural details. No running, training command, clock, step counter, signs, food, traffic or other dogs. Meaning: stopping is part of a walk.",
+      "references": [
+        "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-75d1970e-0dda-47e7-9617-63193ed0db5a.png"
+      ],
+      "sourceDimensions": [
+        1672,
+        941
+      ],
+      "bytes": 442294
+    },
+    {
+      "name": "article_body_language",
+      "role": "cover",
+      "generatedSource": "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-4bfd14ac-3536-488f-a85e-532f81e8dc08.png",
+      "source": "artwork/articles/sources/article_body_language.png",
+      "resource": "app/src/main/res/drawable-nodpi/article_body_language.webp",
+      "prompt": "Use case: photorealistic-natural. One production editorial photograph for the PawCare mobile app, landscape 16:9, 1600x900 or larger equivalent ratio, opaque sRGB. Image reference is STYLE AND DOG IDENTITY REFERENCE, not an edit target: match precisely the same adult medium ginger mixed-breed dog with darker floppy ears, black nose, dark brown eyes, small cream chest patch, realistic balanced proportions and natural medium fur. Same adult owner when present: muted sage-green knit top and beige trousers. Quiet candid editorial photography, warm diffuse window/overcast daylight, matte materials, moderate depth of field, gentle contrast, restrained warm milk #FAF8F4, forest green #426B57, pale sage #E6EEE7, apricot #F3C5A7 and pale natural wood. No glossy advertising, neon greens, cold blue cast, black shadows, extreme bokeh, 3D or illustration. One clear scene only, no collage. Keep all important details inside central 80% of frame with crop-safe margins; show whole dog including paws and tail where present. Live text is placed BELOW picture: no artificial blank text region. No text, symbols, arrows, UI, watermark, logos or labels. Natural anatomy, realistic hands and objects.\nAsset: article_body_language.\nScene: Quiet bright lived-in home with pale wooden floor, milk-colored walls, a leafy plant, simple cream textiles. The reference dog calmly stands beside a soft forest-green mat, entire relaxed posture and paws and tail visible. Ears hang naturally, soft expression. Adult reference owner sits on floor nearby to the right and slightly to the side, observing gently with hands resting on their own legs, no touching and no looming over dog. Dog-height horizontal medium shot. Readable comfortable coexistence without demanded contact. No emotion diagram, labels, arrows, scales, children, treats, restraint or excessive decoration.",
+      "references": [
+        "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-75d1970e-0dda-47e7-9617-63193ed0db5a.png"
+      ],
+      "sourceDimensions": [
+        1672,
+        941
+      ],
+      "bytes": 220418
+    },
+    {
+      "name": "article_give_space",
+      "role": "inline",
+      "generatedSource": "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-09659dd3-9db4-4725-8881-359ed33d966d.png",
+      "source": "artwork/articles/sources/article_give_space.png",
+      "resource": "app/src/main/res/drawable-nodpi/article_give_space.webp",
+      "prompt": "Use case: photorealistic-natural. One production editorial photograph for the PawCare mobile app, landscape 16:9, 1600x900 or larger equivalent ratio, opaque sRGB. Image reference is STYLE AND DOG IDENTITY REFERENCE, not an edit target: match precisely the same adult medium ginger mixed-breed dog with darker floppy ears, black nose, dark brown eyes, small cream chest patch, realistic balanced proportions and natural medium fur. Same adult owner when present: muted sage-green knit top and beige trousers. Quiet candid editorial photography, warm diffuse window/overcast daylight, matte materials, moderate depth of field, gentle contrast, restrained warm milk #FAF8F4, forest green #426B57, pale sage #E6EEE7, apricot #F3C5A7 and pale natural wood. No glossy advertising, neon greens, cold blue cast, black shadows, extreme bokeh, 3D or illustration. One clear scene only, no collage. Keep all important details inside central 80% of frame with crop-safe margins; show whole dog including paws and tail where present. Live text is placed BELOW picture: no artificial blank text region. No text, symbols, arrows, UI, watermark, logos or labels. Natural anatomy, realistic hands and objects.\nAsset: article_give_space.\nScene: Quiet bright home, pale wooden floor, milk walls, cream textiles, leafy plant. The reference dog stands calmly left-center, slightly angled toward an accessible green dog bed at left rear. The adult reference owner sits on a low seat at right edge, body turned sideways, relaxed hands on lap, gentle gaze away from dog, has moved out of dog's way. Clearly visible unoccupied floor separates them and provides a wide unobstructed route from dog to green bed; open interior doorway subtly supports freedom of movement. Wider medium shot at dog height. Dog chooses where to go, no drama. No fear, snarling, chasing, hands reaching to face, collar holding, luring with treats, gates, arrows or labels.",
+      "references": [
+        "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-75d1970e-0dda-47e7-9617-63193ed0db5a.png"
+      ],
+      "sourceDimensions": [
+        1672,
+        941
+      ],
+      "bytes": 193786
+    },
+    {
+      "name": "article_cooperative_care",
+      "role": "cover",
+      "generatedSource": "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-3691eb95-bdfc-4768-98fd-a752a4c66337.png",
+      "source": "artwork/articles/sources/article_cooperative_care.png",
+      "resource": "app/src/main/res/drawable-nodpi/article_cooperative_care.webp",
+      "prompt": "Use case: photorealistic-natural. One production editorial photograph for the PawCare mobile app, landscape 16:9, 1600x900 or larger equivalent ratio, opaque sRGB. Image reference is STYLE AND DOG IDENTITY REFERENCE, not an edit target: match precisely the same adult medium ginger mixed-breed dog with darker floppy ears, black nose, dark brown eyes, small cream chest patch, realistic balanced proportions and natural medium fur. Same adult owner when present: muted sage-green knit top and beige trousers. Quiet candid editorial photography, warm diffuse window/overcast daylight, matte materials, moderate depth of field, gentle contrast, restrained warm milk #FAF8F4, forest green #426B57, pale sage #E6EEE7, apricot #F3C5A7 and pale natural wood. No glossy advertising, neon greens, cold blue cast, black shadows, extreme bokeh, 3D or illustration. One clear scene only, no collage. Keep all important details inside central 80% of frame with crop-safe margins; show whole dog including paws and tail where present. Live text is placed BELOW picture: no artificial blank text region. No text, symbols, arrows, UI, watermark, logos or labels. Natural anatomy, realistic hands and objects.\nReference 2 establishes interior style; reference 1 establishes dog identity. Do not copy sniffing pose unless scene requests it.\nAsset: article_cooperative_care.\nScene: Bright simple home with pale wood floor and milk walls, minimal decor. Reference dog stands comfortably upright on a stable green non-slip grooming mat, head held naturally at shoulder level looking gently toward adult owner, NOT sniffing floor. Full dog's whole body, all paws and tail visible. Adult reference owner sits low on the floor beside dog at right, out of dog's exit path, holding one small soft-bristle wooden brush near dog's shoulder, visibly separate from dog or just about to touch. Brush is recognizably small with short soft bristles, hand clear; other hand rests relaxed on owner's own thigh. This is a brief introduction or pause, not active grooming. Open floor and edge of mat indicate dog can freely walk away. Natural medium horizontal scene at dog height. No scissors, nail clippers, needles, medicine, eye procedure, restraint, dog squeezed between knees, clinic or white coats.",
+      "references": [
+        "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-75d1970e-0dda-47e7-9617-63193ed0db5a.png",
+        "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-4bfd14ac-3536-488f-a85e-532f81e8dc08.png"
+      ],
+      "sourceDimensions": [
+        1672,
+        941
+      ],
+      "bytes": 264848
+    },
+    {
+      "name": "article_care_setup",
+      "role": "inline",
+      "generatedSource": "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-6d62a101-1ac1-4069-b4b9-9bd38eb39909.png",
+      "source": "artwork/articles/sources/article_care_setup.png",
+      "resource": "app/src/main/res/drawable-nodpi/article_care_setup.webp",
+      "prompt": "Use case: photorealistic-natural. One production editorial photograph for the PawCare mobile app, landscape 16:9, 1600x900 or larger equivalent ratio, opaque sRGB. Image reference is STYLE AND DOG IDENTITY REFERENCE, not an edit target: match precisely the same adult medium ginger mixed-breed dog with darker floppy ears, black nose, dark brown eyes, small cream chest patch, realistic balanced proportions and natural medium fur. Same adult owner when present: muted sage-green knit top and beige trousers. Quiet candid editorial photography, warm diffuse window/overcast daylight, matte materials, moderate depth of field, gentle contrast, restrained warm milk #FAF8F4, forest green #426B57, pale sage #E6EEE7, apricot #F3C5A7 and pale natural wood. No glossy advertising, neon greens, cold blue cast, black shadows, extreme bokeh, 3D or illustration. One clear scene only, no collage. Keep all important details inside central 80% of frame with crop-safe margins; show whole dog including paws and tail where present. Live text is placed BELOW picture: no artificial blank text region. No text, symbols, arrows, UI, watermark, logos or labels. Natural anatomy, realistic hands and objects.\nReference 2 establishes interior style; reference 1 establishes dog identity. Do not copy sniffing pose unless scene requests it.\nAsset: article_care_setup.\nScene: Still life ONLY, NO people, NO animals, in the same bright home style as reference: a clean forest-green non-slip rectangular mat on pale wooden floor, one small folded cream towel, small soft-bristle brush with natural wood handle and a small plain reclosable container with a few dog treats. Accessories neatly placed at mat's edges; broad center of mat completely clear, clear access path. Slightly angled overhead photography, soft window light from left, short natural shadows. Realistically scaled objects, quiet organized workspace, minimal props. The container lid may rest neatly beside it so a few treats are visible. No medicines, sharp tools, chemical bottles, commercial packaging, labels, step numbers, extra brushes or scattered food.",
+      "references": [
+        "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-75d1970e-0dda-47e7-9617-63193ed0db5a.png",
+        "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-4bfd14ac-3536-488f-a85e-532f81e8dc08.png"
+      ],
+      "sourceDimensions": [
+        1672,
+        941
+      ],
+      "bytes": 359336
+    },
+    {
+      "name": "article_home_enrichment",
+      "role": "cover",
+      "generatedSource": "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-e03d711b-e69b-4b44-868d-d1f7a4c0eaab.png",
+      "source": "artwork/articles/sources/article_home_enrichment.png",
+      "resource": "app/src/main/res/drawable-nodpi/article_home_enrichment.webp",
+      "prompt": "Use case: photorealistic-natural. One production editorial photograph for the PawCare mobile app, landscape 16:9, 1600x900 or larger equivalent ratio, opaque sRGB. Image reference is STYLE AND DOG IDENTITY REFERENCE, not an edit target: match precisely the same adult medium ginger mixed-breed dog with darker floppy ears, black nose, dark brown eyes, small cream chest patch, realistic balanced proportions and natural medium fur. Same adult owner when present: muted sage-green knit top and beige trousers. Quiet candid editorial photography, warm diffuse window/overcast daylight, matte materials, moderate depth of field, gentle contrast, restrained warm milk #FAF8F4, forest green #426B57, pale sage #E6EEE7, apricot #F3C5A7 and pale natural wood. No glossy advertising, neon greens, cold blue cast, black shadows, extreme bokeh, 3D or illustration. One clear scene only, no collage. Keep all important details inside central 80% of frame with crop-safe margins; show whole dog including paws and tail where present. Live text is placed BELOW picture: no artificial blank text region. No text, symbols, arrows, UI, watermark, logos or labels. Natural anatomy, realistic hands and objects.\nReference 2 establishes interior style; reference 1 establishes dog identity. Do not copy sniffing pose unless scene requests it.\nAsset: article_home_enrichment.\nScene: The reference ginger dog in bright familiar home with pale wooden floor, milk walls, cream textiles, green plant, diffuse window light. Dog freely investigates ONE safe whole sturdy large apricot rubber enrichment toy next to a small muted forest-green play mat, nose oriented toward toy, relaxed body and natural moderate interest. Whole body and paws and tail visible, head not distorted. A modest woven basket sits off to side in background holding just 2 or 3 other large safe toys, secondary visual focus. Generous clear floor, small simple activity. Low dog-torso-height camera, horizontal medium view. No tiny detachable pieces, buttons, beads, torn packaging, exposed stuffing, electric cables, scattered food, specific toy brand, training command or clutter.",
+      "references": [
+        "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-75d1970e-0dda-47e7-9617-63193ed0db5a.png",
+        "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-4bfd14ac-3536-488f-a85e-532f81e8dc08.png"
+      ],
+      "sourceDimensions": [
+        1672,
+        941
+      ],
+      "bytes": 229232
+    },
+    {
+      "name": "article_toy_rotation",
+      "role": "inline",
+      "generatedSource": "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-cd4607b4-ea21-456e-9a37-4d09a92fe444.png",
+      "source": "artwork/articles/sources/article_toy_rotation.png",
+      "resource": "app/src/main/res/drawable-nodpi/article_toy_rotation.webp",
+      "prompt": "Use case: photorealistic-natural. One production editorial photograph for the PawCare mobile app, landscape 16:9, 1600x900 or larger equivalent ratio, opaque sRGB. Image reference is STYLE AND DOG IDENTITY REFERENCE, not an edit target: match precisely the same adult medium ginger mixed-breed dog with darker floppy ears, black nose, dark brown eyes, small cream chest patch, realistic balanced proportions and natural medium fur. Same adult owner when present: muted sage-green knit top and beige trousers. Quiet candid editorial photography, warm diffuse window/overcast daylight, matte materials, moderate depth of field, gentle contrast, restrained warm milk #FAF8F4, forest green #426B57, pale sage #E6EEE7, apricot #F3C5A7 and pale natural wood. No glossy advertising, neon greens, cold blue cast, black shadows, extreme bokeh, 3D or illustration. One clear scene only, no collage. Keep all important details inside central 80% of frame with crop-safe margins; show whole dog including paws and tail where present. Live text is placed BELOW picture: no artificial blank text region. No text, symbols, arrows, UI, watermark, logos or labels. Natural anatomy, realistic hands and objects.\nReference 1: dog identity only. Reference 2: home palette and materials only. Change action and camera to requested scene.\nAsset: article_toy_rotation.\nScene: Still life ONLY, NO people, NO animals. Familiar bright home, pale wooden floor. Small simple woven basket on LEFT containing exactly three large safe intact dog toys: a chunky cream textile toy without buttons, a sturdy muted green rubber toy and one plain ball. On RIGHT, a separate green mat holds ONE selected large muted apricot rubber ball, ample empty mat and floor around it. All toys suitably large for medium-sized dog, matte and simple, no loose parts or frayed stuffing. Slightly elevated angled overhead photo, diffuse light from left, soft short shadows. Readable quiet choice, not a product catalog. Basket and mat must be entirely inside frame and crop safe. No price tags, brands, timers, schedules, arrows, toys strewn everywhere or extra props.",
+      "references": [
+        "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-75d1970e-0dda-47e7-9617-63193ed0db5a.png",
+        "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-4bfd14ac-3536-488f-a85e-532f81e8dc08.png"
+      ],
+      "sourceDimensions": [
+        1672,
+        941
+      ],
+      "bytes": 293268
+    },
+    {
+      "name": "article_quiet_rest",
+      "role": "cover",
+      "generatedSource": "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-d5f3a50d-b8f5-4af9-9803-e6b49f1907c9.png",
+      "source": "artwork/articles/sources/article_quiet_rest.png",
+      "resource": "app/src/main/res/drawable-nodpi/article_quiet_rest.webp",
+      "prompt": "Use case: photorealistic-natural. One production editorial photograph for the PawCare mobile app, landscape 16:9, 1600x900 or larger equivalent ratio, opaque sRGB. Image reference is STYLE AND DOG IDENTITY REFERENCE, not an edit target: match precisely the same adult medium ginger mixed-breed dog with darker floppy ears, black nose, dark brown eyes, small cream chest patch, realistic balanced proportions and natural medium fur. Same adult owner when present: muted sage-green knit top and beige trousers. Quiet candid editorial photography, warm diffuse window/overcast daylight, matte materials, moderate depth of field, gentle contrast, restrained warm milk #FAF8F4, forest green #426B57, pale sage #E6EEE7, apricot #F3C5A7 and pale natural wood. No glossy advertising, neon greens, cold blue cast, black shadows, extreme bokeh, 3D or illustration. One clear scene only, no collage. Keep all important details inside central 80% of frame with crop-safe margins; show whole dog including paws and tail where present. Live text is placed BELOW picture: no artificial blank text region. No text, symbols, arrows, UI, watermark, logos or labels. Natural anatomy, realistic hands and objects.\nReference 1: dog identity only. Reference 2: home palette and materials only. Change action and camera to requested scene.\nAsset: article_quiet_rest.\nScene: Reference dog RESTING on a broad soft forest-green dog bed off to side of walkway in familiar bright room with pale wood floor, cream wall, edge of window, a simple floor lamp and a leafy plant. Dog lies naturally comfortably curled on side, weight fully supported, head gently resting on padded bed edge or front paws, eyes softly closed. Completely natural sleeping anatomy, whole dog, tail and bed visible with margin. Do not copy standing/sniffing pose from reference. Camera at dog-bed level, horizontal medium composition, free path visible beside resting area. Warm diffuse daylight, no sharp sun on dog. Cozy undisturbed everyday rest. No people, child, petting, waking dog, cage, clocks, Z letters, sleep graphs, medical imagery or excessive designer furniture.",
+      "references": [
+        "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-75d1970e-0dda-47e7-9617-63193ed0db5a.png",
+        "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-4bfd14ac-3536-488f-a85e-532f81e8dc08.png"
+      ],
+      "sourceDimensions": [
+        1672,
+        941
+      ],
+      "bytes": 242966
+    },
+    {
+      "name": "article_rest_corner",
+      "role": "inline",
+      "generatedSource": "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-45191a5f-bb02-4785-90a7-dac02104953e.png",
+      "source": "artwork/articles/sources/article_rest_corner.png",
+      "resource": "app/src/main/res/drawable-nodpi/article_rest_corner.webp",
+      "prompt": "Use case: photorealistic-natural. One production editorial photograph for the PawCare mobile app, landscape 16:9, 1600x900 or larger equivalent ratio, opaque sRGB. Image reference is STYLE AND DOG IDENTITY REFERENCE, not an edit target: match precisely the same adult medium ginger mixed-breed dog with darker floppy ears, black nose, dark brown eyes, small cream chest patch, realistic balanced proportions and natural medium fur. Same adult owner when present: muted sage-green knit top and beige trousers. Quiet candid editorial photography, warm diffuse window/overcast daylight, matte materials, moderate depth of field, gentle contrast, restrained warm milk #FAF8F4, forest green #426B57, pale sage #E6EEE7, apricot #F3C5A7 and pale natural wood. No glossy advertising, neon greens, cold blue cast, black shadows, extreme bokeh, 3D or illustration. One clear scene only, no collage. Keep all important details inside central 80% of frame with crop-safe margins; show whole dog including paws and tail where present. Live text is placed BELOW picture: no artificial blank text region. No text, symbols, arrows, UI, watermark, logos or labels. Natural anatomy, realistic hands and objects.\nReference 1: dog identity only. Reference 2: home palette and materials only. Change action and camera to requested scene.\nAsset: article_rest_corner.\nScene: Still life ONLY, NO people, NO animals. Wider view of an EMPTY cozy rest corner in familiar bright room, pale wood floor and cream walls, forest-green soft broad dog bed of medium-dog size tucked to side, a neatly folded cream blanket at edge of bed, simple low wooden side table with plain lamp, one leafy plant. Significant visibly clear floor between rest corner and rest of room, open unobstructed approach to bed. Quiet geometric lines, warm natural matte materials and soft diffuse daylight. Slight angled view from main room, bed fully in crop-safe frame. Meaning: accessible rest spot away from traffic. No heater, appliances, door swinging into bed, closed door, gates, prohibitive symbols, decorations with writing, people or animals.",
+      "references": [
+        "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-75d1970e-0dda-47e7-9617-63193ed0db5a.png",
+        "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-4bfd14ac-3536-488f-a85e-532f81e8dc08.png"
+      ],
+      "sourceDimensions": [
+        1672,
+        941
+      ],
+      "bytes": 180000
+    },
+    {
+      "name": "article_car_travel",
+      "role": "cover",
+      "generatedSource": "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-a428e1e6-5896-4e76-abea-bbd4738f5efd.png",
+      "source": "artwork/articles/sources/article_car_travel.png",
+      "resource": "app/src/main/res/drawable-nodpi/article_car_travel.webp",
+      "prompt": "Use case: photorealistic-natural. One production editorial photograph for the PawCare mobile app, landscape 16:9, 1600x900 or larger equivalent ratio, opaque sRGB. Image reference is STYLE AND DOG IDENTITY REFERENCE, not an edit target: match precisely the same adult medium ginger mixed-breed dog with darker floppy ears, black nose, dark brown eyes, small cream chest patch, realistic balanced proportions and natural medium fur. Same adult owner when present: muted sage-green knit top and beige trousers. Quiet candid editorial photography, warm diffuse window/overcast daylight, matte materials, moderate depth of field, gentle contrast, restrained warm milk #FAF8F4, forest green #426B57, pale sage #E6EEE7, apricot #F3C5A7 and pale natural wood. No glossy advertising, neon greens, cold blue cast, black shadows, extreme bokeh, 3D or illustration. One clear scene only, no collage. Keep all important details inside central 80% of frame with crop-safe margins; show whole dog including paws and tail where present. Live text is placed BELOW picture: no artificial blank text region. No text, symbols, arrows, UI, watermark, logos or labels. Natural anatomy, realistic hands and objects.\nReferences establish dog identity and palette only; follow the NEW composition below, no home furniture or park path.\nAsset: article_car_travel.\nScene: The same reference ginger dog sits calmly on the REAR bench seat of a PARKED ordinary unbranded car. Change pose: dog sits upright naturally with front paws on cream blanket covering seat, entire dog visible with comfortable space. Side three-quarter camera at rear-seat height from open opposite rear door, no wide-angle head distortion. Correctly sized broad padded forest-green automotive BODY harness, broad chest panel over sternum and straps around ribcage behind forelegs, NO collar attachment. A clearly visible short purpose-designed black restraint strap runs from dorsal harness ring on back to visible rear-seat seatbelt anchor/buckle beside dog's hip; it is naturally short without tension. Ordinary car seat belt and buckle visible, realistic understandable webbing connections, no floating straps. CLOSED window behind dog with soft green foliage beyond, seatback and headrest, warm comfortable diffuse daylight, matte gray-green upholstery. No loose luggage, driver, steering wheel in foreground, dog in front seat or footwell, head out window, neck tether, logos, equipment certification claims, text, technical diagrams or crash test. Editorial preparation scene, calm, no suggestion of exact installation instructions.",
+      "references": [
+        "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-75d1970e-0dda-47e7-9617-63193ed0db5a.png",
+        "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-4bfd14ac-3536-488f-a85e-532f81e8dc08.png"
+      ],
+      "sourceDimensions": [
+        1672,
+        940
+      ],
+      "bytes": 217496
+    },
+    {
+      "name": "article_travel_kit",
+      "role": "inline",
+      "generatedSource": "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-7ee44dc4-6c4f-444c-a205-3fdb1270b3a8.png",
+      "source": "artwork/articles/sources/article_travel_kit.png",
+      "resource": "app/src/main/res/drawable-nodpi/article_travel_kit.webp",
+      "prompt": "Use case: photorealistic-natural. One production editorial photograph for the PawCare mobile app, landscape 16:9, 1600x900 or larger equivalent ratio, opaque sRGB. Image reference is STYLE AND DOG IDENTITY REFERENCE, not an edit target: match precisely the same adult medium ginger mixed-breed dog with darker floppy ears, black nose, dark brown eyes, small cream chest patch, realistic balanced proportions and natural medium fur. Same adult owner when present: muted sage-green knit top and beige trousers. Quiet candid editorial photography, warm diffuse window/overcast daylight, matte materials, moderate depth of field, gentle contrast, restrained warm milk #FAF8F4, forest green #426B57, pale sage #E6EEE7, apricot #F3C5A7 and pale natural wood. No glossy advertising, neon greens, cold blue cast, black shadows, extreme bokeh, 3D or illustration. One clear scene only, no collage. Keep all important details inside central 80% of frame with crop-safe margins; show whole dog including paws and tail where present. Live text is placed BELOW picture: no artificial blank text region. No text, symbols, arrows, UI, watermark, logos or labels. Natural anatomy, realistic hands and objects.\nReferences establish dog identity and palette only; follow the NEW composition below, no home furniture or park path.\nAsset: article_travel_kit.\nScene: Still life ONLY, NO people or animals. On pale clean wood surface, compact organized travel kit: a simple matte forest-green fabric travel bag, unbranded clear bottle of water, small plain sage dog bowl, green dog leash coiled OUTSIDE bag where easily grabbed before opening car, one simple roll of cleanup bags, familiar neatly folded cream blanket and one neutral beige document folder CLOSED with no visible personal details. Every item recognizable and completely within frame with breathing room, not a pile of luggage, well-spaced yet compact. Slightly angled top-down camera, soft daylight from left and natural short shadows. Warm milk, green, apricot and wood. No medicines, blister packs, dosing, sports equipment, irrelevant decor, readable passports, addresses, phone numbers, brands, labels or text.",
+      "references": [
+        "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-75d1970e-0dda-47e7-9617-63193ed0db5a.png",
+        "/Users/maksimkosharny/.codex/generated_images/01a171db-2ee3-7ae3-9029-e0ee38903448/exec-4bfd14ac-3536-488f-a85e-532f81e8dc08.png"
+      ],
+      "sourceDimensions": [
+        1672,
+        941
+      ],
+      "bytes": 221550
+    }
+  ]
+}

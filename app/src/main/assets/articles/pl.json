@@ -1,0 +1,708 @@
+[
+  {
+    "id": "sniff-walks",
+    "title": "Spacer oczami psa: więcej niż kilometry",
+    "summary": "Zamień zwykłą trasę w małą przygodę: czas na odkrywanie, wygodne tempo i więcej uwagi dla siebie nawzajem.",
+    "category": "Codzienne odkrycia",
+    "readingMinutes": 3,
+    "cover": "article_sniff_walk",
+    "coverDescription": "Pies poznaje zielony park na luźnej smyczy.",
+    "featured": true,
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Znana ulica staje się zupełnie innym miejscem, kiedy przestajesz patrzeć wyłącznie na licznik odległości. Potraktuj spacer jako wspólny czas na ruch, obserwację i małe decyzje. Celem jest rytm odpowiedni dla Twojego psa, a nie idealna trasa narysowana na mapie."
+      },
+      {
+        "type": "heading",
+        "text": "Zacznij od jednego pytania"
+      },
+      {
+        "type": "paragraph",
+        "text": "Przed wyjściem zapytaj: **co sprawi, że dzisiejszy spacer będzie bardziej komfortowy?** Może to być spokojniejsza ulica, znajoma ścieżka albo mniej spotkań. Sprawdź smycz i sprzęt, w razie potrzeby zabierz wodę i zaplanuj łatwy powrót. Dopasuj aktywność do wieku, zdrowia, pogody i otrzymanych już zaleceń weterynarza."
+      },
+      {
+        "type": "heading",
+        "text": "Zostaw miejsce na odkrywanie"
+      },
+      {
+        "type": "paragraph",
+        "text": "Psy poznają otoczenie za pomocą zapachów. Odcinek, który można przejść powoli i obwąchać, jest wartościową częścią spaceru. Wybierz bezpieczne miejsce i pozwól się zatrzymać, zamiast natychmiast ciągnąć dalej. Zachowuj kontrolę przy ruchu ulicznym, dzikich zwierzętach i nieznanych przedmiotach: poznawanie nie oznacza jedzenia tego, co leży na ziemi."
+      },
+      {
+        "type": "paragraph",
+        "text": "Wyobraź sobie znajomą pętlę jako trzy rozdziały: spokojny początek, odcinek odkryć i niespieszny powrót. To **przykład elastycznej struktury**, a nie obowiązkowa proporcja czy zalecana dawka ruchu. Jeśli przy ulubionym zakręcie jest tłoczno, przenieś część odkrywczą w inne miejsce."
+      },
+      {
+        "type": "callout",
+        "title": "Jedna drobna zmiana",
+        "text": "Na następnym zwykłym spacerze wybierz bezpieczny punkt, w którym nie będziesz się spieszyć. Zauważ, co pies sprawdza, zanim zdecydujesz, dokąd iść dalej."
+      },
+      {
+        "type": "heading",
+        "text": "Proponuj wybór, który możesz uszanować"
+      },
+      {
+        "type": "bullet",
+        "text": "Na spokojnym skrzyżowaniu zaproponuj dwa odpowiednie kierunki zamiast prowadzić psa prosto w głośny tłum."
+      },
+      {
+        "type": "bullet",
+        "text": "Pozwól zatrzymać się przy ciekawym miejscu, jeśli jest bezpiecznie i nie blokujecie przejścia innym."
+      },
+      {
+        "type": "bullet",
+        "text": "Przy spotkaniu z innym psem wybierz przestrzeń zamiast obowiązkowego powitania. Kontakt nie jest obowiązkiem."
+      },
+      {
+        "type": "image",
+        "asset": "article_walk_pause",
+        "description": "Człowiek i pies zatrzymali się przy ścieżce; wokół jest dużo wolnego miejsca.",
+        "caption": "Przerwa jest częścią spaceru, a nie opóźnieniem, które trzeba pokonać."
+      },
+      {
+        "type": "heading",
+        "text": "Dodaj małą zabawę w odkrywanie"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dla psa, który lubi szukać, wymyśl łatwe zadanie w czystym, bezpiecznym miejscu. Na przykład połóż znajomą zabawkę na widoku i zaproś do jej znalezienia. Pierwszy sukces powinien być niemal oczywisty. Zakończ, póki zabawa jest przyjemna; nie musisz zwiększać trudności za każdym razem."
+      },
+      {
+        "type": "paragraph",
+        "text": "Jeśli używasz jedzenia, wybierz produkt odpowiedni już dla Twojego psa i uwzględnij go w zwykłej porcji. Nie rozsypuj karmy tam, gdzie mogłaby przeszkadzać innym psom, dzikim zwierzętom lub higienie. Wersja z zabawką jest równie wartościowa."
+      },
+      {
+        "type": "heading",
+        "text": "Zauważ także zakończenie"
+      },
+      {
+        "type": "paragraph",
+        "text": "Po powrocie zapisz krótką obserwację: trasę, tłoczne momenty i coś, co najwyraźniej spodobało się psu. „Zatrzymał się przy drzewach; chętnie wrócił do domu” mówi więcej niż „dobrze” albo „źle”. Po kilku wyjściach notatki staną się Twoją własną mapą odpowiednich miejsc."
+      },
+      {
+        "type": "paragraph",
+        "text": "Dodaj kontekst bez oceniania wyniku: czy było głośno, czy się spieszyliście, czy powrót był spokojny. Nie porównuj każdego spaceru z najbardziej udanym. Czasami krótka, znana trasa jest właśnie tym, co pasuje do danego dnia."
+      },
+      {
+        "type": "heading",
+        "text": "Trzy notatki przed kolejnym wyjściem"
+      },
+      {
+        "type": "bullet",
+        "text": "**Zachowaj:** jedną część, w której oboje czuliście się dobrze."
+      },
+      {
+        "type": "bullet",
+        "text": "**Zmień:** jedno możliwe do uniknięcia źródło pośpiechu lub tłoku."
+      },
+      {
+        "type": "bullet",
+        "text": "**Zauważ:** nową preferencję, bez robienia z niej stałej etykietki."
+      },
+      {
+        "type": "paragraph",
+        "text": "Możliwość węszenia urozmaica spacer, ale nie zastępuje ruchu i nie rozwiązuje każdego problemu z zachowaniem. Jeśli pies nagle unika spacerów, wydaje się odczuwać dyskomfort lub wyraźnie się zmienił, porozmawiaj z weterynarzem zamiast upierać się przy zwykłej trasie."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Blue Cross · Enrichment for dogs",
+        "url": "https://www.bluecross.org.uk/advice/dog/enrichment-for-dogs"
+      },
+      {
+        "title": "Blue Cross · Scent work for dogs",
+        "url": "https://www.bluecross.org.uk/advice/dog/behaviour-and-training/scent-work-for-dogs"
+      },
+      {
+        "title": "Dogs Trust · Dog walker guidelines",
+        "url": "https://www.dogstrust.org.uk/downloads/dog-walker-guidelines-2022.pdf"
+      }
+    ]
+  },
+  {
+    "id": "body-language",
+    "title": "Co pies mówi bez słów?",
+    "summary": "Jak zauważać komfort, niepewność i potrzebę przestrzeni — i dlaczego merdający ogon nie wyjaśnia wszystkiego.",
+    "category": "Rozumieć się lepiej",
+    "readingMinutes": 3,
+    "cover": "article_body_language",
+    "coverDescription": "Rozluźniony pies odpoczywa obok człowieka w spokojnym pokoju.",
+    "featured": false,
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Pies komunikuje się, kiedy stoi, podchodzi, bawi się albo odwraca wzrok. Zauważanie tej rozmowy jest codziennym nawykiem, a nie egzaminem zdawanym raz na zawsze. Zacznij od ciekawości: **co się zmieniło i co wydarzyło się chwilę wcześniej?** Takie pytanie bywa bardziej przydatne niż natychmiastowe nazywanie emocji."
+      },
+      {
+        "type": "heading",
+        "text": "Czytaj całą sytuację"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ogon, ucho czy ziewnięcie nie opowiadają całej historii. Patrz na ciało w połączeniu z okolicznościami i zwykłym sposobem zachowania Twojego psa. To, co typowe dla jednego, u innego może wyglądać inaczej. Obserwacja jest informacją do sprawdzenia, a nie diagnozą ani gwarancją bezpieczeństwa."
+      },
+      {
+        "type": "heading",
+        "text": "Zbuduj własny obraz komfortu"
+      },
+      {
+        "type": "paragraph",
+        "text": "Poobserwuj psa w zwykłej, spokojnej chwili, zachowując szacunek do jego przestrzeni. Jak stoi, porusza się, odpoczywa i odwraca w stronę ciekawych rzeczy? Zapisz neutralny opis: „swobodne ruchy, odpoczynek obok, możliwość odwrócenia wzroku”. To osobisty punkt odniesienia do kolejnych porównań."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nie przerywaj odpoczynku, żeby zdobyć dowód. Nie musisz ciągle przywoływać psa, dotykać go ani fotografować. Przydatną umiejętnością jest zauważanie tego, co się dzieje, i jednoczesne pozwalanie mu na samodzielny wybór zajęcia."
+      },
+      {
+        "type": "callout",
+        "title": "Porównanie, które pomaga",
+        "text": "Porównuj psa z jego własnym zachowaniem w komfortowej sytuacji. Lista sygnałów lub ilustracja pomaga w obserwacji, ale nie zastępuje konkretnego psa i kontekstu."
+      },
+      {
+        "type": "heading",
+        "text": "Zauważaj zmiany wcześniej"
+      },
+      {
+        "type": "paragraph",
+        "text": "Napięcie, odwracanie się lub próba odejścia mogą oznaczać, że kontakt staje się trudny. Zwolnij, zanim poprosisz o więcej. Nie zapędzaj psa w kąt i nie zbliżaj twarzy, żeby przyjrzeć się jego minie. Często wystarczy zmienić własne działanie: cofnąć rękę, odsunąć się lub zwolnić drogę."
+      },
+      {
+        "type": "bullet",
+        "text": "**Opisz:** „Gdy gość pochylił się bliżej, pies odwrócił głowę”."
+      },
+      {
+        "type": "bullet",
+        "text": "**Odpowiedz:** poproś gościa o zatrzymanie się i zostawienie więcej miejsca."
+      },
+      {
+        "type": "bullet",
+        "text": "**Sprawdź ponownie:** pies wybiera pozostanie, odejście czy poznawanie sytuacji z daleka?"
+      },
+      {
+        "type": "image",
+        "asset": "article_give_space",
+        "description": "Człowiek odsuwa się na bok, pozostawiając psu wolną drogę.",
+        "caption": "Przestrzeń jest pomocną odpowiedzią nawet wtedy, gdy nie potrafisz dokładnie nazwać emocji."
+      },
+      {
+        "type": "heading",
+        "text": "Powitanie jest zaproszeniem, nie obowiązkiem"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pozwól psu zdecydować, czy chce podejść do spokojnej osoby. Bliskość nie zawsze oznacza prośbę o dotyk. Jeśli zaczniesz delikatny kontakt i zrobisz przerwę, zauważ: czy pies dobrowolnie wraca po więcej, czy wybiera coś innego? Uszanuj odpowiedź, nie chodź za nim i nie zwabiaj jedzeniem do niechcianego kontaktu."
+      },
+      {
+        "type": "paragraph",
+        "text": "Dzieci potrzebują aktywnego nadzoru dorosłego. Rozpoznawanie ostrzeżeń psa nie powinno być odpowiedzialnością dziecka. Zapewnij niezakłócone miejsce odpoczynku i zarządzaj otoczeniem, zamiast oczekiwać bezbłędnej oceny sytuacji od dziecka lub zwierzęcia."
+      },
+      {
+        "type": "heading",
+        "text": "Notuj konkretnie"
+      },
+      {
+        "type": "paragraph",
+        "text": "Spróbuj zapisu w trzech częściach: **sytuacja → obserwacja → Twoja zmiana**. Na przykład: „Dzwonek → chodzenie przy przedpokoju → cichy pokój i możliwość odejścia”. To przykład opisu, a nie dowód przyczyny zachowania. Powtarzające się sytuacje można omówić z wykwalifikowanym specjalistą."
+      },
+      {
+        "type": "paragraph",
+        "text": "Warto zapisać również to, czego nie wiesz: kto podszedł pierwszy, jak blisko była osoba i co stało się po przerwie. Takie szczegóły pomagają nie zamieniać pojedynczego epizodu w etykietkę w rodzaju „nie lubi ludzi”."
+      },
+      {
+        "type": "heading",
+        "text": "Gdy niepewność dotyczy bezpieczeństwa"
+      },
+      {
+        "type": "paragraph",
+        "text": "Jeśli pies nieruchomieje, warczy lub kontakt wydaje się niebezpieczny, przerwij go i spokojnie zwiększ dystans. Nie karz ostrzeżeń i nie sprawdzaj dalej granic cierpliwości. W razie potrzeby użyj barierek i nadzoru dorosłego. Nagłe lub utrzymujące się zmiany zachowania warto omówić z weterynarzem: trening nie powinien przesłaniać dyskomfortu ani choroby."
+      },
+      {
+        "type": "paragraph",
+        "text": "Celem nie jest odczytanie każdej myśli. Wystarczy zauważać wcześniej i tworzyć codzienne kontakty, które łatwo przerwać, wznowić lub zakończyć."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Dogs Trust · Body language",
+        "url": "https://www.dogstrust.org.uk/dog-advice/understanding-your-dog/body-language"
+      },
+      {
+        "title": "RSPCA · Understanding dog behaviour",
+        "url": "https://www.rspca.org.uk/adviceandwelfare/pets/dogs/behaviour/understanding"
+      }
+    ]
+  },
+  {
+    "id": "cooperative-care",
+    "title": "Pielęgnacja bez pośpiechu: uczymy się współpracy",
+    "summary": "Przygotuj psa do szczotkowania i zwykłego dotyku: małe, zrozumiałe kroki, nagrody i prawdziwa możliwość przerwy.",
+    "category": "Łagodne nawyki",
+    "readingMinutes": 3,
+    "cover": "article_cooperative_care",
+    "coverDescription": "Pies na wygodnej macie obok osoby z miękką szczotką.",
+    "featured": false,
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Szczotka, ręcznik lub dłoń obok łapy wydają się nam zwyczajne, a dla psa mogą być czymś nieznanym. Proces można przećwiczyć, zanim potrzebna będzie właściwa pielęgnacja. Wyobraź sobie wspólny rytuał: **podejść, zauważyć, spróbować łatwego kroku, odpocząć**. Sukcesem jest komfortowy udział, a nie wyczesanie całej sierści."
+      },
+      {
+        "type": "heading",
+        "text": "Oddziel ćwiczenie od pilnego zadania"
+      },
+      {
+        "type": "paragraph",
+        "text": "Wybierz moment, w którym niczego nie trzeba kończyć natychmiast. Nauka spokojnej rutyny i rozwiązanie pilnej potrzeby zdrowotnej to różne sytuacje. Jeśli pielęgnacji nie można bezpiecznie odłożyć, zapytaj weterynarza lub groomera, jak postąpić. Nie opóźniaj potrzebnego leczenia dla idealnego ćwiczenia."
+      },
+      {
+        "type": "heading",
+        "text": "Stwórz przewidywalne miejsce"
+      },
+      {
+        "type": "paragraph",
+        "text": "Potrzebujesz wygodnego, antypoślizgowego podłoża i możliwości odejścia. Wybierz spokojne miejsce, a nieznane narzędzia odłóż z boku. Przygotuj odpowiednie nagrody wcześniej, żeby nie szukać ich w torbie, przytrzymując psa. Dobierz narzędzia do sierści i indywidualnych potrzeb, w razie potrzeby z pomocą specjalisty."
+      },
+      {
+        "type": "paragraph",
+        "text": "Wypróbuj nasze ćwiczenie planowania: trzy kolumny „już łatwe”, „mały następny krok” i „nie dzisiaj”. Na przykład patrzenie na szczotkę może już być łatwe, a jej ruch przy barku będzie kolejnym krokiem. Nie ma nagrody za szybkie dotarcie do ostatniej kolumny."
+      },
+      {
+        "type": "callout",
+        "title": "Przydatna zasada zatrzymania",
+        "text": "Jeśli pies odchodzi lub czuje się niekomfortowo, zrób przerwę. Odejście jest informacją, nie błędem do poprawienia. Ułatw kolejną próbę, zamiast przytrzymywać psa na miejscu."
+      },
+      {
+        "type": "heading",
+        "text": "Zbuduj bardzo krótką sekwencję"
+      },
+      {
+        "type": "bullet",
+        "text": "Pozwól zauważyć narzędzie z komfortowej odległości i nagródź spokojny, łatwy moment."
+      },
+      {
+        "type": "bullet",
+        "text": "Spróbuj krótkiego dotyku tylko tam, gdzie pies już go lubi: zabierz rękę i nagródź."
+      },
+      {
+        "type": "bullet",
+        "text": "Wprowadzaj narzędzie stopniowo. Zmieniaj jedną rzecz: odległość, ruch albo czas trwania."
+      },
+      {
+        "type": "bullet",
+        "text": "Zakończ czymś, co jest już łatwe. Krótka, udana praktyka wystarczy na jedną sesję."
+      },
+      {
+        "type": "image",
+        "asset": "article_care_setup",
+        "description": "Mata antypoślizgowa, miękka szczotka i mały pojemnik z nagrodami; wokół wolna podłoga.",
+        "caption": "Przygotuj miejsce wcześniej, żeby nie przytrzymywać psa podczas szukania narzędzi."
+      },
+      {
+        "type": "heading",
+        "text": "Ustal czytelną przerwę"
+      },
+      {
+        "type": "paragraph",
+        "text": "Możesz na przykład zapraszać psa na matę i kontynuować znane ćwiczenie tylko wtedy, gdy sam na niej pozostaje. To przykład przewidywalnego początku i zatrzymania, a nie automatyczna zgoda na każdą procedurę. Obserwuj całe ciało i przerwij przy trudnościach, nawet jeśli pies jeszcze nie zszedł z maty."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nie ukrywaj nieprzyjemnej czynności za jedzeniem i nie zakładaj, że jedzenie oznacza zgodę. Przerwa musi naprawdę zatrzymywać ćwiczenie. Jeśli myślisz „jeszcze jedno pociągnięcie szczotką”, zatrzymaj się i zastanów, czy krok nie był zbyt duży."
+      },
+      {
+        "type": "heading",
+        "text": "Zapisuj najmniejszy sukces"
+      },
+      {
+        "type": "paragraph",
+        "text": "Po ćwiczeniu zanotuj narzędzie, część ciała i to, co pozostało komfortowe. „Popatrzył na szczotkę; spokojnie przyjął jeden krótki dotyk przy barku” to czytelniejszy początek następnej próby niż „pielęgnacja zrobiona”. Innym domownikom łatwiej będzie odtworzyć te same proste warunki, zamiast przypadkiem zacząć od trudniejszego etapu."
+      },
+      {
+        "type": "paragraph",
+        "text": "Dobra notatka opisuje też Twój udział: gdzie leżały narzędzia, czy było głośno i ile zajęły przygotowania. W ten sposób poprawiasz warunki, zamiast tylko oceniać psa. Plan można uprościć bez poczucia porażki."
+      },
+      {
+        "type": "heading",
+        "text": "Kiedy potrzebna jest pomoc"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ból, silny lęk lub zachowania obronne wymagają indywidualnego wsparcia. Nową wrażliwość omów z weterynarzem, a plan nauki z wykwalifikowanym specjalistą pracującym metodami opartymi na nagradzaniu. Nie wykonuj zabiegów inwazyjnych, nie rozplątuj bolesnych kołtunów siłą i nie ucz się obcinać pazurów wyłącznie z artykułu."
+      },
+      {
+        "type": "paragraph",
+        "text": "Współpraca rośnie dzięki przewidywalności: zaproszenie jest zrozumiałe, kolejny krok wykonalny, a przerwa naprawdę pozostaje przerwą."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Dogs Trust · Handling your dog",
+        "url": "https://www.dogstrust.org.uk/dog-advice/health-wellbeing/at-home/how-to-handle-your-dog"
+      },
+      {
+        "title": "Canine Partners · Consent-based handling",
+        "url": "https://caninepartners.org.uk/blogs/consent-based-handling/"
+      },
+      {
+        "title": "RSPCA · Grooming",
+        "url": "https://www.rspca.org.uk/adviceandwelfare/pets/dogs/health/grooming"
+      }
+    ]
+  },
+  {
+    "id": "home-enrichment",
+    "title": "Dom pełen małych odkryć",
+    "summary": "Dobierz domowe zajęcia do zainteresowań psa, bez kupowania szafy zabawek i zamieniania każdej chwili w kolejne wyzwanie.",
+    "category": "Życie w domu",
+    "readingMinutes": 3,
+    "cover": "article_home_enrichment",
+    "coverDescription": "Pies poznaje zabawkę i prostą matę do aktywności w przytulnym salonie.",
+    "featured": false,
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Ciekawy dom nie musi wyglądać jak ośrodek szkoleniowy. Znajoma zabawka, odrobina wspólnej uwagi i możliwość zakończenia zajęcia mogą uprzyjemnić zwykły dzień. Zacznij od **tego, co Twój pies już lubi**, zamiast od listy aktywności, które podobno powinny zachwycać każdego."
+      },
+      {
+        "type": "heading",
+        "text": "Zrób małą mapę zainteresowań"
+      },
+      {
+        "type": "paragraph",
+        "text": "Przez kilka dni zauważaj, co pies wybiera sam, kiedy nikt nie wymaga od niego występu. Nosi zabawkę, bada zapachy, bawi się obok czy po prostu odpoczywa blisko? Zapisz trzy obserwacje bez oceniania. To mapa wyjściowa, a nie test charakteru ani zadanie zapełnienia każdej wolnej chwili."
+      },
+      {
+        "type": "paragraph",
+        "text": "Proponujemy własny sposób planowania: trzy nagłówki „razem”, „odkrywanie” i „spokojnie”. Pod każdym umieść jedną znaną możliwość. Może to być krótka wspólna zabawa, łatwe szukanie i niezakłócony odpoczynek. Nie trzeba realizować wszystkich trzech punktów podczas jednej sesji."
+      },
+      {
+        "type": "heading",
+        "text": "Ułatw pierwszą wersję"
+      },
+      {
+        "type": "paragraph",
+        "text": "Wybierz bezpieczną zabawkę, którą pies już zna. Połóż ją w widocznym miejscu i zaproś do sprawdzenia. Wspieraj zainteresowanie takim kontaktem, jaki pies lubi. Udanym początkiem może być samo podejście do zabawki; skomplikowana łamigłówka nie jest konieczna."
+      },
+      {
+        "type": "paragraph",
+        "text": "Jeżeli pies się odwraca, być może zajęcie nie jest teraz atrakcyjne. Zrób przerwę, zamiast wielokrotnie podsuwać ten sam przedmiot. Następnym razem zmień tylko jeden warunek, na przykład miejsce albo sposób zaproszenia. Dzięki temu Twoje notatki pozostaną czytelne i przydatne."
+      },
+      {
+        "type": "callout",
+        "title": "Pomysł na dzisiejszy wieczór",
+        "text": "Wybierz ulubioną zabawkę, zaproponuj krótką, łatwą zabawę i zakończ, zanim zaczniesz podtrzymywać ją za wszelką cenę. Zapisz, co pies wybrał później."
+      },
+      {
+        "type": "heading",
+        "text": "Włącz bezpieczeństwo do przygotowań"
+      },
+      {
+        "type": "bullet",
+        "text": "Dopasuj przedmioty do wielkości psa i sposobu zabawy; sprawdzaj uszkodzenia i odczepiające się elementy."
+      },
+      {
+        "type": "bullet",
+        "text": "Nadzoruj nowe aktywności, również własnoręcznie przygotowane. Zwykłe opakowanie nie staje się automatycznie bezpieczną zabawką."
+      },
+      {
+        "type": "bullet",
+        "text": "Do zadań z jedzeniem używaj odpowiednich już produktów i uwzględniaj je w zwykłej dziennej porcji."
+      },
+      {
+        "type": "image",
+        "asset": "article_toy_rotation",
+        "description": "Mały kosz zabawek obok jednej wybranej zabawki na macie.",
+        "caption": "Kilka trafnie wybranych możliwości bywa lepsze niż wszystkie zabawki naraz."
+      },
+      {
+        "type": "heading",
+        "text": "Zmieniaj uwagę, nie tylko przedmioty"
+      },
+      {
+        "type": "paragraph",
+        "text": "Możesz trzymać mały kosz i proponować kilka odpowiednich rzeczy, zostawiając inne na kolejny dzień. Nie zabieraj przedmiotu, który pomaga psu czuć się bezpiecznie, tylko ze względu na harmonogram rotacji. Celem jest wygodny wybór, a nie nieustanna nowość."
+      },
+      {
+        "type": "paragraph",
+        "text": "Proponuj różne sposoby udziału: szukanie znanej zabawki, łagodną wspólną grę albo spokojne towarzystwo. Aktywność z Tobą nie zawsze musi składać się z poleceń. Czasami wspólnym czasem jest siedzenie obok, kiedy pies samodzielnie bada przedmiot."
+      },
+      {
+        "type": "heading",
+        "text": "Zauważ zakończenie"
+      },
+      {
+        "type": "paragraph",
+        "text": "Zanim utrudnisz zabawę, zapytaj, czy obecna wersja nadal jest przyjemna. Powtarzające się nieudane próby są powodem do uproszczenia zadania, nie dowodem, że pies powinien bardziej się starać. „Znalazł widoczną zabawkę i poszedł na legowisko” mówi więcej niż ocena „wygrana” lub „porażka”."
+      },
+      {
+        "type": "paragraph",
+        "text": "Pozostaw możliwość odpoczynku po zabawie. Ciekawszy dom nie oznacza, że ktoś nieustannie zabawia psa. Domowe aktywności urozmaicają życie, ale nie zastępują odpowiednich spacerów, kontaktu i indywidualnego wsparcia, gdy jest potrzebne."
+      },
+      {
+        "type": "heading",
+        "text": "Ułóż własne spokojne menu tygodnia"
+      },
+      {
+        "type": "bullet",
+        "text": "**Powtórz:** zajęcie, do którego pies wrócił dobrowolnie."
+      },
+      {
+        "type": "bullet",
+        "text": "**Zmień:** jeden warunek, który okazał się trudny lub zbyt głośny."
+      },
+      {
+        "type": "bullet",
+        "text": "**Zostaw miejsce:** na zwykły dzień bez nowego ćwiczenia."
+      },
+      {
+        "type": "paragraph",
+        "text": "Najlepsze menu pasuje do prawdziwego życia i pozostawia Wam obojgu prawo wyboru. Wystarczy krótka notatka po zabawie: nie trzeba zamieniać odpoczynku w raport z obowiązkowymi osiągnięciami."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Dogs Trust · Enrichment activities",
+        "url": "https://www.dogstrust.org.uk/dog-advice/life-with-your-dog/enrichment/enrichment-activities-for-dogs"
+      },
+      {
+        "title": "Blue Cross · Enrichment for dogs",
+        "url": "https://www.bluecross.org.uk/advice/dog/enrichment-for-dogs"
+      },
+      {
+        "title": "Blue Cross · Scent work for dogs",
+        "url": "https://www.bluecross.org.uk/advice/dog/behaviour-and-training/scent-work-for-dogs"
+      }
+    ]
+  },
+  {
+    "id": "quiet-rest",
+    "title": "Spokojny kącik na spokojniejszy dzień",
+    "summary": "Urządź miejsce, w którym pies naprawdę może odpocząć, i domową rutynę chroniącą odpoczynek zamiast sprawdzania jego cierpliwości.",
+    "category": "Komfort i odpoczynek",
+    "readingMinutes": 3,
+    "cover": "article_quiet_rest",
+    "coverDescription": "Pies odpoczywa na miękkim legowisku w cichym kącie jasnego pokoju.",
+    "featured": false,
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Wygodne legowisko jest przydatnym przedmiotem, a miejsce, gdzie odpoczynek jest szanowany, to codzienna umowa. Pomyśl zarówno o samym kąciku, jak i o tym, co dzieje się wokół. **Spokojny czas jest częścią opieki**, a nie pustą chwilą, którą trzeba natychmiast wypełnić kolejną zabawą."
+      },
+      {
+        "type": "heading",
+        "text": "Obserwuj przed przemeblowaniem"
+      },
+      {
+        "type": "paragraph",
+        "text": "Zauważ, gdzie pies sam układa się o różnych porach. Blisko Ciebie, dalej od drzwi czy na innym podłożu? Narysuj prostą mapę dwóch lub trzech wybieranych miejsc. Jego preferencje mogą powiedzieć więcej o dobrym rozwiązaniu niż miejsce, w którym legowisko najlepiej wygląda na zdjęciu."
+      },
+      {
+        "type": "paragraph",
+        "text": "To ćwiczenie obserwacji, a nie wymaganie spania w wyznaczonym punkcie. Niektóre psy wolą odpoczywać przy człowieku, inne wybierają trochę większą odległość. Nie zamieniaj preferencji jednego psa w uniwersalną zasadę dla wszystkich zwierząt w domu."
+      },
+      {
+        "type": "heading",
+        "text": "Spójrz na cały kącik"
+      },
+      {
+        "type": "paragraph",
+        "text": "Potrzebne jest wygodne podłoże i dość miejsca na zmianę pozycji. Weź pod uwagę pobliskie drzwi, przechodzących domowników, nagłe dźwięki, słońce i temperaturę. Pies nie powinien omijać stóp ani regularnie wstawać, żeby ktoś mógł otworzyć szafkę."
+      },
+      {
+        "type": "paragraph",
+        "text": "Zmieniaj jeden warunek naraz. Na przykład przesuń legowisko z ruchliwego przejścia, zachowując znajomy koc. Zanotuj, czy pies postanowił poznać nowe miejsce lub tam odpocząć. Nowego legowiska nie trzeba przedstawiać jako polecenia ani wyzwania."
+      },
+      {
+        "type": "callout",
+        "title": "Umowa dla wszystkich domowników",
+        "text": "Gdy pies odpoczywa, nie przeszkadzaj mu. Wyjaśnij tę samą zasadę gościom, a dzieciom zapewnij aktywny nadzór dorosłego, zamiast oczekiwać rozpoznawania każdego sygnału."
+      },
+      {
+        "type": "heading",
+        "text": "Ułatw wycofanie się z kontaktu"
+      },
+      {
+        "type": "bullet",
+        "text": "Pozostaw dostępną drogę do miejsca odpoczynku, zamiast umieszczać je za zwartym kręgiem gości."
+      },
+      {
+        "type": "bullet",
+        "text": "Nie używaj legowiska do karania ani przeprowadzania niechcianych zabiegów."
+      },
+      {
+        "type": "bullet",
+        "text": "Pozwól zmienić pozycję i wybrać inne odpowiednie miejsce: bezruch nie oznacza jeszcze rozluźnienia."
+      },
+      {
+        "type": "image",
+        "asset": "article_rest_corner",
+        "description": "Legowisko obok lampy i złożonego koca, z dala od głównego przejścia.",
+        "caption": "Spokojny kącik działa najlepiej, gdy domownicy również chronią jego spokój."
+      },
+      {
+        "type": "heading",
+        "text": "Próbuj spokojnych chwil bez występu"
+      },
+      {
+        "type": "paragraph",
+        "text": "Możesz usiąść w pobliżu i pozwolić na łatwą przerwę po zwykłym zajęciu. Zauważaj komfortowe, niespieszne zachowanie, nie przywołując ciągle uwagi psa do swojego następnego działania. Jeśli stosujesz nagrody, podawaj je spokojnie i dostosuj ćwiczenie, gdy oczekiwanie na kolejny smakołyk utrzymuje czujność zamiast odpoczynku."
+      },
+      {
+        "type": "paragraph",
+        "text": "Znana mata może pomóc, ale nie gwarantuje spokoju w nowym, zatłoczonym miejscu. Zacznij od łatwego otoczenia i zmieniaj wymagania stopniowo. Możliwość zatrzymania się lub odejścia musi pozostać prawdziwa."
+      },
+      {
+        "type": "heading",
+        "text": "Zostaw krótką wieczorną notatkę"
+      },
+      {
+        "type": "paragraph",
+        "text": "Trzy pytania: „gdzie udało się odpocząć?”, „co przeszkodziło?” i „co możemy zmienić?”. Być może legowisko jest dobre, ale wieczorna dostawa znów kieruje wszystkich przez te same drzwi. Zmiana tego zwyczaju może pomóc bardziej niż kupno nowego posłania."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nie zamieniaj notatek w sztywny ranking snu i nie porównuj psa z internetową normą godzinową. Jeśli odpoczywanie nagle staje się trudne, pojawia się dyskomfort lub trwała zmiana zachowania, omów to z weterynarzem, zamiast uznawać surowszy trening za rozwiązanie."
+      },
+      {
+        "type": "heading",
+        "text": "Zostaw coś niezaplanowanego"
+      },
+      {
+        "type": "paragraph",
+        "text": "W spokojnym domu także są zabawy, goście i ruch. Celem nie jest nieustanna cisza, lecz przewidywalna możliwość odsunięcia się od wydarzeń. Zachowaj dostęp do spokojnego kącika również w dni, kiedy wszystko inne się zmienia. Jego wartością nie jest idealny porządek, ale niezawodny szacunek dla odpoczynku."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Dogs Trust · Helping your dog settle",
+        "url": "https://www.dogstrust.org.uk/dog-advice/training/unwanted-behaviours/hyperactive-and-restlessness"
+      },
+      {
+        "title": "Battersea · Calm and relaxed",
+        "url": "https://www.battersea.org.uk/pet-advice/dog-advice/my-dog-wont-settle-teaching-your-dog-be-calm-and-relaxed"
+      },
+      {
+        "title": "Dogs Trust · Living happily together",
+        "url": "https://www.dogstrust.org.uk/downloads/living-happily-together-guide-2024.pdf"
+      }
+    ]
+  },
+  {
+    "id": "car-travel",
+    "title": "W drogę bez pośpiechu: przygotuj podróż",
+    "summary": "Praktyczny plan poznawania samochodu, przemyślanego pakowania i wygodnej drogi — od pierwszego podejścia do auta po spokojny przyjazd.",
+    "category": "Małe przygody",
+    "readingMinutes": 3,
+    "cover": "article_car_travel",
+    "coverDescription": "Pies w odpowiednich szelkach samochodowych na tylnym siedzeniu zaparkowanego auta.",
+    "featured": false,
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Spokojna podróż zaczyna się przed uruchomieniem silnika. Pakowanie, wsiadanie, jazda i przyjazd są dla psa osobnymi doświadczeniami. Potraktuj je jako **małe etapy, do których można się przygotować**, zamiast oczekiwać, że jeden długi wyjazd nauczy wszystkiego naraz."
+      },
+      {
+        "type": "heading",
+        "text": "Planuj także wokół potrzeb psa"
+      },
+      {
+        "type": "paragraph",
+        "text": "Przed wyborem trasy pomyśl o podejściu do auta, odpowiednich postojach i tym, co wydarzy się po przyjeździe. Jeśli to możliwe, oddziel pierwsze ćwiczenia od wizyty na ściśle ustaloną godzinę. Przygotuj mały plan z możliwością przerwania i spróbowania innego dnia."
+      },
+      {
+        "type": "paragraph",
+        "text": "Jeżeli pies już boi się samochodu, ma chorobę lokomocyjną lub potrzeby zdrowotne wpływające na podróż, wcześniej omów przygotowania z weterynarzem. Artykuł nie jest powodem do podawania leków ani kopiowania podróżnego planu innego psa."
+      },
+      {
+        "type": "heading",
+        "text": "Oswój zaparkowany samochód"
+      },
+      {
+        "type": "paragraph",
+        "text": "Zacznij od łatwego spotkania przy bezpiecznie zaparkowanym aucie, z dala od ruchu i spalin. Pozwól poznawać je z komfortowej odległości. Wsiadanie, przebywanie w przygotowanej bezpiecznej przestrzeni i wysiadanie ćwicz osobno, z odpowiednimi nagrodami."
+      },
+      {
+        "type": "paragraph",
+        "text": "Dodawaj dźwięk silnika i krótkie przejazdy, kiedy poprzedni etap jest już komfortowy. Nie ma uniwersalnej liczby sesji ani obowiązkowej długości jazdy. Spokojny powrót do domu po jednym wykonalnym kroku to pełnowartościowa praktyka."
+      },
+      {
+        "type": "callout",
+        "title": "Przygotuj się przed otwarciem drzwi",
+        "text": "Najpierw ułóż własne rzeczy. Zachowuj kontrolę podczas wsiadania i wysiadania, a otoczenie sprawdzaj, zanim pies uzyska dostęp do otwartych drzwi auta."
+      },
+      {
+        "type": "heading",
+        "text": "Dobierz bezpieczne miejsce w samochodzie"
+      },
+      {
+        "type": "bullet",
+        "text": "Stosuj odpowiedni samochodowy system zabezpieczenia lub stabilnie zamontowaną klatkę transportową zgodnie z instrukcją producenta i właściwą poradą specjalisty."
+      },
+      {
+        "type": "bullet",
+        "text": "Nie przypinaj zabezpieczenia samochodowego do obroży i nie pozwalaj psu swobodnie przemieszczać się tam, gdzie może rozpraszać kierowcę."
+      },
+      {
+        "type": "bullet",
+        "text": "Zapewnij wygodną pozycję, wentylację i brak niezabezpieczonego bagażu, który mógłby przesunąć się w stronę psa."
+      },
+      {
+        "type": "image",
+        "asset": "article_travel_kit",
+        "description": "Torba podróżna z wodą, miską, smyczą, znajomym kocem i teczką dokumentów.",
+        "caption": "Pakuj rzeczy ułatwiające przejścia między etapami, nie tylko te potrzebne u celu."
+      },
+      {
+        "type": "heading",
+        "text": "Spakuj zestaw na przejścia"
+      },
+      {
+        "type": "paragraph",
+        "text": "Proponujemy trzy nagłówki własnej listy: „wysiąść”, „zrobić przerwę” i „dotrzeć”. Umieść smycz i woreczki tak, aby dosięgnąć ich przed otwarciem drzwi. Dodaj wodę i miskę, znajomy koc oraz dokumenty i wyposażenie potrzebne właśnie podczas tego wyjazdu."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sprawdź aktualność danych identyfikacyjnych i dostępność potrzebnych kontaktów. Dla przekraczania granic, transportu publicznego lub przewoźnika osobno zweryfikuj aktualne oficjalne zasady: wymagania zależą od konkretnej podróży. Ogólny artykuł nie potwierdza pozwolenia na wyjazd."
+      },
+      {
+        "type": "heading",
+        "text": "Zachowaj elastyczność w drodze"
+      },
+      {
+        "type": "paragraph",
+        "text": "Zaplanuj odpowiednie postoje na wodę, toaletę i wygodny ruch. Jeśli pies potrzebuje uwagi, zatrzymaj się w bezpiecznym miejscu: kierowca nie powinien odwracać się i rozwiązywać problemu podczas jazdy. Nie pozwalaj wystawiać głowy przez otwarte okno."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nigdy nie zostawiaj psa samego w zaparkowanym samochodzie. W ciepłe dni auto szybko staje się niebezpieczne; uchylone okno nie jest planem bezpieczeństwa. Zmień wyjazd, jeśli nie możesz zapewnić nadzoru i odpowiednich warunków."
+      },
+      {
+        "type": "heading",
+        "text": "Daj przyjazdowi osobną chwilę"
+      },
+      {
+        "type": "paragraph",
+        "text": "Po bezpiecznym zaparkowaniu przypnij smycz i sprawdź otoczenie przed wyjściem. Pozwól na spokojną pauzę zamiast natychmiastowego głośnego powitania. Później zapisz jeden udany etap i jedną rzecz, którą można uprościć. Celem jest przewidywalna droga, a nie wyłącznie dotarcie do punktu na mapie."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Blue Cross · Car travel with your dog",
+        "url": "https://www.bluecross.org.uk/advice/dog/travelling-with-your-dog-by-car"
+      },
+      {
+        "title": "RSPCA · Transporting your pet",
+        "url": "https://www.rspca.org.uk/documents/1494939/7712578/Pets_Transporting%20your%20pet%20220814x.pdf/29d87515-6b0e-9e2d-f396-c4672856e7ef?t=1553170129690"
+      },
+      {
+        "title": "Blue Cross · Moving house and travelling",
+        "url": "https://www.bluecross.org.uk/advice/dog/moving-house-and-travelling-with-dogs"
+      },
+      {
+        "title": "Dogs Trust · Car travel",
+        "url": "https://www.dogstrust.org.uk/dog-advice/training/outdoors/car-travel"
+      }
+    ]
+  }
+]

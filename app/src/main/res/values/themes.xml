@@ -1,0 +1,1 @@
+<resources><style name="Theme.PawCare" parent="Theme.AppCompat.Light.NoActionBar"><item name="android:windowLightStatusBar">true</item><item name="android:windowActionModeOverlay">true</item><item name="android:windowBackground">#FAF8F4</item></style></resources>

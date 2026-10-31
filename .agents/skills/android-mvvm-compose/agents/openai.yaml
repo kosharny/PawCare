@@ -1,0 +1,4 @@
+interface:
+  display_name: "Android MVVM + Compose"
+  short_description: "Android: MVVM, Compose, stable dependencies, no tests"
+  default_prompt: "Use $android-mvvm-compose to implement this Android feature with MVVM, Jetpack Compose, compatible stable dependencies, and no new tests."

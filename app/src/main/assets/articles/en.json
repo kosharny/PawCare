@@ -1,0 +1,696 @@
+[
+  {
+    "id": "sniff-walks",
+    "title": "A walk through your dog’s eyes",
+    "summary": "Turn an everyday route into a small adventure: room to explore, a comfortable pace and more attention to each other.",
+    "category": "Everyday discoveries",
+    "readingMinutes": 4,
+    "cover": "article_sniff_walk",
+    "coverDescription": "A dog exploring a green park on a loose lead.",
+    "featured": true,
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "A familiar street can be a very different place when you stop watching the distance counter. Think of a walk as time you share, with room for movement, observation and small choices. The aim is a routine that fits your actual dog, rather than a perfect-looking route on a map."
+      },
+      {
+        "type": "heading",
+        "text": "Start with one question"
+      },
+      {
+        "type": "paragraph",
+        "text": "Before leaving, ask: **what would make this outing comfortable today?** Your answer might be a quieter street, a familiar route or fewer encounters. Check the lead and equipment, bring water when appropriate and plan an easy way home. Adjust activity to the dog’s age, health, weather and any advice already given by your vet."
+      },
+      {
+        "type": "heading",
+        "text": "Make space for exploration"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dogs use smell to investigate their surroundings. A slow stretch with time to sniff can be a useful part of a walk. Choose a safe area and let the dog pause without immediately pulling them onwards. Keep control near traffic, wildlife and unfamiliar objects; exploring never means eating anything found on the ground."
+      },
+      {
+        "type": "paragraph",
+        "text": "You could divide a familiar loop into three chapters: a comfortable start, an unhurried discovery stretch and a quiet return. This is an **example of a flexible structure**, not a required ratio or exercise prescription. If a corner is busy, move the discovery stretch somewhere else."
+      },
+      {
+        "type": "callout",
+        "title": "Try one small change",
+        "text": "On your next familiar walk, choose one safe spot where you will stop checking the time. Notice what your dog investigates before deciding where to go next."
+      },
+      {
+        "type": "heading",
+        "text": "Offer choices you can safely honour"
+      },
+      {
+        "type": "bullet",
+        "text": "At a quiet junction, offer two suitable routes rather than dragging the dog into a noisy crowd."
+      },
+      {
+        "type": "bullet",
+        "text": "Allow a pause at an interesting patch, provided it is safe and you are not blocking other people."
+      },
+      {
+        "type": "bullet",
+        "text": "If another dog is approaching, choose space over an obligatory greeting. Social contact is optional."
+      },
+      {
+        "type": "image",
+        "asset": "article_walk_pause",
+        "description": "A person and dog pausing beside a path, leaving plenty of open space.",
+        "caption": "A pause can be part of the walk, rather than a delay to overcome."
+      },
+      {
+        "type": "heading",
+        "text": "Try a tiny discovery game"
+      },
+      {
+        "type": "paragraph",
+        "text": "For a dog that enjoys searching, invent an easy game in a safe, clean space. For example, place a familiar toy where it is plainly visible and invite the dog to find it. Make the first attempt almost effortless. Stop while the activity is still enjoyable; you do not need to increase the difficulty every time."
+      },
+      {
+        "type": "paragraph",
+        "text": "If using food, choose something already suitable for your dog and account for it within their usual allowance. Do not scatter food where it could affect wildlife, other dogs or hygiene. A simple toy-based version is equally valid."
+      },
+      {
+        "type": "heading",
+        "text": "Read the ending, too"
+      },
+      {
+        "type": "paragraph",
+        "text": "After returning, write a short observation: route, busy moments and something your dog seemed to enjoy. “Paused near the trees; returned willingly” is more useful than “good” or “bad”. Over several outings, these notes become your own guide to choosing a more suitable route."
+      },
+      {
+        "type": "heading",
+        "text": "Your next walk, in three notes"
+      },
+      {
+        "type": "bullet",
+        "text": "**Keep:** one part that felt comfortable for both of you."
+      },
+      {
+        "type": "bullet",
+        "text": "**Change:** one avoidable source of rushing or crowding."
+      },
+      {
+        "type": "bullet",
+        "text": "**Notice:** one new preference, without turning it into a permanent label."
+      },
+      {
+        "type": "paragraph",
+        "text": "A sniffing opportunity adds interest, but does not replace movement or solve every behaviour concern. If your dog suddenly avoids walks, seems uncomfortable or changes markedly, ask your vet for individual advice rather than pushing through the route."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Blue Cross · Enrichment for dogs",
+        "url": "https://www.bluecross.org.uk/advice/dog/enrichment-for-dogs"
+      },
+      {
+        "title": "Blue Cross · Scent work for dogs",
+        "url": "https://www.bluecross.org.uk/advice/dog/behaviour-and-training/scent-work-for-dogs"
+      },
+      {
+        "title": "Dogs Trust · Dog walker guidelines",
+        "url": "https://www.dogstrust.org.uk/downloads/dog-walker-guidelines-2022.pdf"
+      }
+    ]
+  },
+  {
+    "id": "body-language",
+    "title": "What is your dog saying without words?",
+    "summary": "A practical way to notice comfort, uncertainty and the need for space—without deciding everything from a wagging tail.",
+    "category": "Understanding each other",
+    "readingMinutes": 4,
+    "cover": "article_body_language",
+    "coverDescription": "A relaxed dog resting near a person in a quiet room.",
+    "featured": false,
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "A dog communicates while standing still, approaching, playing or looking away. Learning to notice that conversation is a daily habit, not a test you pass once. Start with curiosity: **what changed, and what happened just before it?** That question is often more useful than immediately naming an emotion."
+      },
+      {
+        "type": "heading",
+        "text": "Read a scene, not a single signal"
+      },
+      {
+        "type": "paragraph",
+        "text": "A tail, an ear or a yawn cannot tell the whole story. Look at the body together with the situation and your dog’s usual manner. A shape that looks ordinary for one dog may look different on another. Treat an observation as information to check, rather than a diagnosis or a promise of safety."
+      },
+      {
+        "type": "heading",
+        "text": "Build your picture of comfort"
+      },
+      {
+        "type": "paragraph",
+        "text": "Watch your dog in an ordinary quiet moment, from a respectful distance. Notice how they stand, move, rest and turn towards things. Write a short neutral description: “loose movement, resting nearby, able to look away”. This becomes a personal reference point for later comparisons."
+      },
+      {
+        "type": "paragraph",
+        "text": "You do not need to interrupt that moment to collect proof. Avoid repeatedly calling, touching or photographing the dog. The useful skill is noticing while allowing them to carry on choosing what to do."
+      },
+      {
+        "type": "callout",
+        "title": "The most useful comparison",
+        "text": "Compare your dog with their own comfortable behaviour. A checklist or an illustration can help you observe, but cannot replace the individual dog and the context."
+      },
+      {
+        "type": "heading",
+        "text": "Notice changes early"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tension, turning away or trying to leave can mean that an interaction is becoming difficult. Slow down before asking for more. Do not corner the dog or put your face close to inspect their expression. A small change in your own behaviour may be the easiest next step: stop reaching, step aside or open a clear route away."
+      },
+      {
+        "type": "bullet",
+        "text": "**Describe:** “When the visitor leaned closer, the dog turned away.”"
+      },
+      {
+        "type": "bullet",
+        "text": "**Respond:** ask the visitor to pause and allow more space."
+      },
+      {
+        "type": "bullet",
+        "text": "**Recheck:** does the dog choose to stay, leave or investigate at a distance?"
+      },
+      {
+        "type": "image",
+        "asset": "article_give_space",
+        "description": "A person stepping to the side to leave an open route for a dog.",
+        "caption": "Giving room is a useful response even when you are unsure of the precise emotion."
+      },
+      {
+        "type": "heading",
+        "text": "A greeting is an invitation, not an obligation"
+      },
+      {
+        "type": "paragraph",
+        "text": "Let the dog decide whether to approach a calm person. Being near you is not automatically a request for touch. If you start gentle contact and then pause, notice whether they freely return for more or choose something else. Respect the answer without following them around or using food to lure them into an unwanted interaction."
+      },
+      {
+        "type": "paragraph",
+        "text": "Children need active adult supervision; a child should not be responsible for interpreting a dog’s warnings. Give resting dogs an undisturbed place, and manage the environment instead of expecting perfect judgement from either the child or the dog."
+      },
+      {
+        "type": "heading",
+        "text": "Make your notes concrete"
+      },
+      {
+        "type": "paragraph",
+        "text": "Try a three-part note: **situation → observation → change you made**. For example: “Doorbell → pacing near the hall → quiet room and a choice to leave.” This is an example of observation, not proof of why the dog acted that way. Share recurring patterns with a qualified professional if you need help."
+      },
+      {
+        "type": "heading",
+        "text": "When uncertainty becomes a safety issue"
+      },
+      {
+        "type": "paragraph",
+        "text": "If a dog freezes, growls or otherwise makes the interaction feel unsafe, stop and create distance calmly. Do not punish warnings or keep testing their tolerance. Use barriers and adult management where needed. Sudden or persistent behavioural changes deserve a veterinary conversation; training advice should not overlook discomfort or illness."
+      },
+      {
+        "type": "paragraph",
+        "text": "The goal is not to read every thought. It is to notice earlier and make everyday interactions easier to leave, pause and enjoy."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Dogs Trust · Body language",
+        "url": "https://www.dogstrust.org.uk/dog-advice/understanding-your-dog/body-language"
+      },
+      {
+        "title": "RSPCA · Understanding dog behaviour",
+        "url": "https://www.rspca.org.uk/adviceandwelfare/pets/dogs/behaviour/understanding"
+      }
+    ]
+  },
+  {
+    "id": "cooperative-care",
+    "title": "Care as a conversation: learning to cooperate",
+    "summary": "Prepare for brushing and everyday handling with small, predictable steps, rewards and a genuine chance to pause.",
+    "category": "Gentle routines",
+    "readingMinutes": 4,
+    "cover": "article_cooperative_care",
+    "coverDescription": "A dog on a comfortable mat beside a person holding a soft brush.",
+    "featured": false,
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "A brush, towel or hand near a paw can look ordinary to us and unfamiliar to a dog. You can practise the process before a real care task is due. Think of this as learning a shared routine: **arrive, notice, try one easy step, pause**. Success is comfortable participation, not finishing the whole coat."
+      },
+      {
+        "type": "heading",
+        "text": "Separate practice from an urgent task"
+      },
+      {
+        "type": "paragraph",
+        "text": "Choose a time when nothing needs to be completed immediately. Training a calm routine and dealing with an urgent health need are different situations. If care cannot safely wait, ask your vet or groomer how to proceed. Do not delay necessary treatment while trying to perfect a training exercise."
+      },
+      {
+        "type": "heading",
+        "text": "Design a predictable place"
+      },
+      {
+        "type": "paragraph",
+        "text": "Use a comfortable, non-slip surface with room for the dog to leave. Keep the area quiet and put unfamiliar equipment to one side. Prepare suitable rewards before starting, so you are not searching through a bag while holding the dog in place. Choose tools with advice appropriate to the dog’s coat and needs."
+      },
+      {
+        "type": "paragraph",
+        "text": "As an original planning exercise, draw three columns on paper: “already easy”, “one small next step” and “not today”. For example, looking at a brush might be easy while having it moved near the shoulder is the next step. There is no prize for reaching the final column quickly."
+      },
+      {
+        "type": "callout",
+        "title": "A useful stopping rule",
+        "text": "If the dog moves away or becomes uncomfortable, pause. Leaving is information, not a mistake to correct. Make the next attempt easier rather than holding them in place."
+      },
+      {
+        "type": "heading",
+        "text": "Build a tiny sequence"
+      },
+      {
+        "type": "bullet",
+        "text": "Let the dog notice the equipment from a comfortable distance; reward an easy, relaxed moment."
+      },
+      {
+        "type": "bullet",
+        "text": "Practise a very brief touch only where the dog is already comfortable being touched, then remove your hand and reward."
+      },
+      {
+        "type": "bullet",
+        "text": "Introduce the tool gradually. Change just one feature at a time: closeness, movement or duration."
+      },
+      {
+        "type": "bullet",
+        "text": "Finish with something the dog already finds easy. Short, successful practice is enough for one session."
+      },
+      {
+        "type": "image",
+        "asset": "article_care_setup",
+        "description": "A non-slip mat, soft brush and small reward container arranged with plenty of clear floor.",
+        "caption": "Prepare the space first, so the dog never needs to be restrained while you look for equipment."
+      },
+      {
+        "type": "heading",
+        "text": "Choose a clear pause"
+      },
+      {
+        "type": "paragraph",
+        "text": "You might invite the dog onto a mat and only continue a familiar exercise while they choose to stay. This is an example of a predictable start-and-pause routine, not automatic permission for every procedure. Watch their whole body and stop if the situation becomes difficult, even if they have not stepped off."
+      },
+      {
+        "type": "paragraph",
+        "text": "Do not hide an uncomfortable task behind food or assume eating means consent. The pause must actually stop the practice. If you find yourself thinking “just one more stroke”, stop and reconsider whether the step was too ambitious."
+      },
+      {
+        "type": "heading",
+        "text": "Keep a record of the smallest success"
+      },
+      {
+        "type": "paragraph",
+        "text": "After practice, note the tool, the body area and what remained comfortable. “Looked at brush; accepted one brief shoulder touch” is a clearer starting point next time than “grooming done”. Other family members can then repeat the same easy setup instead of accidentally beginning with a harder step."
+      },
+      {
+        "type": "heading",
+        "text": "Know when to ask for help"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pain, strong fear or defensive behaviour call for professional guidance. Ask a vet about a new sensitivity and an appropriately qualified reward-based behaviour professional for a tailored training plan. Do not practise invasive procedures, force painful tangles or cut nails from an article alone."
+      },
+      {
+        "type": "paragraph",
+        "text": "A cooperative routine grows through reliability: your invitation is clear, the next step is manageable, and a pause really means a pause."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Dogs Trust · Handling your dog",
+        "url": "https://www.dogstrust.org.uk/dog-advice/health-wellbeing/at-home/how-to-handle-your-dog"
+      },
+      {
+        "title": "Canine Partners · Consent-based handling",
+        "url": "https://caninepartners.org.uk/blogs/consent-based-handling/"
+      },
+      {
+        "title": "RSPCA · Grooming",
+        "url": "https://www.rspca.org.uk/adviceandwelfare/pets/dogs/health/grooming"
+      }
+    ]
+  },
+  {
+    "id": "home-enrichment",
+    "title": "A home full of small discoveries",
+    "summary": "Build enjoyable indoor activities from your dog’s preferences, without buying a cupboard full of toys or turning every moment into a challenge.",
+    "category": "Life at home",
+    "readingMinutes": 4,
+    "cover": "article_home_enrichment",
+    "coverDescription": "A dog exploring a toy and a simple activity mat in a warm living room.",
+    "featured": false,
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "An interesting home does not need to look like a training centre. A familiar toy, a little shared attention and the freedom to stop can make an ordinary afternoon more enjoyable. Begin with **what your dog already likes**, rather than a list of activities another dog is supposed to love."
+      },
+      {
+        "type": "heading",
+        "text": "Make a small preference map"
+      },
+      {
+        "type": "paragraph",
+        "text": "For a few days, notice what your dog chooses when nobody is asking them to perform. Do they carry a toy, investigate scents, play alongside you or simply settle nearby? Write three observations, without ranking them. This is your starting map, not a personality test or a target to fill every hour."
+      },
+      {
+        "type": "paragraph",
+        "text": "An original planning idea is to make three headings: “together”, “exploring” and “quiet”. Put one familiar option under each. You might offer a brief shared game, an easy search and then an undisturbed rest. There is no requirement to complete all three in one session."
+      },
+      {
+        "type": "heading",
+        "text": "Make the first version easy"
+      },
+      {
+        "type": "paragraph",
+        "text": "Choose one safe toy your dog already knows. Place it somewhere obvious and invite them to investigate. Reward interest with the kind of interaction they enjoy. A successful beginning may simply be approaching the toy; elaborate problem-solving is not necessary."
+      },
+      {
+        "type": "paragraph",
+        "text": "If the dog turns away, the activity may not be appealing right now. Pause instead of repeatedly presenting the same object. Change only one feature next time, such as the location or how you introduce it, so your own notes remain useful."
+      },
+      {
+        "type": "callout",
+        "title": "One idea for this afternoon",
+        "text": "Choose a favourite toy, offer a brief easy game and finish before you feel the need to keep it going. Write down what the dog chose to do next."
+      },
+      {
+        "type": "heading",
+        "text": "Keep safety part of the setup"
+      },
+      {
+        "type": "bullet",
+        "text": "Choose objects suitable for your dog’s size and way of playing; check for damage and detachable parts."
+      },
+      {
+        "type": "bullet",
+        "text": "Supervise new activities, including homemade ones. Everyday household packaging is not automatically a safe toy."
+      },
+      {
+        "type": "bullet",
+        "text": "For food activities, use something already appropriate and account for it within the usual daily allowance."
+      },
+      {
+        "type": "image",
+        "asset": "article_toy_rotation",
+        "description": "A small basket of dog toys beside one selected toy on a mat.",
+        "caption": "A few well-chosen options can be more useful than putting every toy out at once."
+      },
+      {
+        "type": "heading",
+        "text": "Rotate attention, not just equipment"
+      },
+      {
+        "type": "paragraph",
+        "text": "You can keep a small basket and select a few suitable items, leaving others for another day. Do not remove a comfort item the dog relies on simply to follow a rotation schedule. The aim is useful choice, rather than constant novelty."
+      },
+      {
+        "type": "paragraph",
+        "text": "Offer different kinds of participation: finding a familiar toy, a gentle interactive game or quiet companionship. An activity that involves you does not always need to involve instructions. Sitting together while the dog investigates an object can also be shared time."
+      },
+      {
+        "type": "heading",
+        "text": "Notice the ending"
+      },
+      {
+        "type": "paragraph",
+        "text": "Before making a game harder, ask whether the current version is still enjoyable. Repeated unsuccessful attempts are a reason to simplify, not proof that the dog needs to try harder. Write “found the visible toy, then went to the bed” instead of judging the session as a win or failure."
+      },
+      {
+        "type": "paragraph",
+        "text": "Keep rest available after play. A more interesting home is not a home where somebody is always entertaining the dog. Indoor enrichment adds variety; it does not replace appropriate walks, social contact or individual support when needed."
+      },
+      {
+        "type": "heading",
+        "text": "Build your own gentle weekly menu"
+      },
+      {
+        "type": "bullet",
+        "text": "**Repeat** an activity the dog freely returned to."
+      },
+      {
+        "type": "bullet",
+        "text": "**Adjust** one part that seemed too difficult or busy."
+      },
+      {
+        "type": "bullet",
+        "text": "**Leave space** for an ordinary day with no new exercise."
+      },
+      {
+        "type": "paragraph",
+        "text": "The best menu is one that fits real life and leaves both of you with room to choose."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Dogs Trust · Enrichment activities",
+        "url": "https://www.dogstrust.org.uk/dog-advice/life-with-your-dog/enrichment/enrichment-activities-for-dogs"
+      },
+      {
+        "title": "Blue Cross · Enrichment for dogs",
+        "url": "https://www.bluecross.org.uk/advice/dog/enrichment-for-dogs"
+      },
+      {
+        "title": "Blue Cross · Scent work for dogs",
+        "url": "https://www.bluecross.org.uk/advice/dog/behaviour-and-training/scent-work-for-dogs"
+      }
+    ]
+  },
+  {
+    "id": "quiet-rest",
+    "title": "A quiet corner, a calmer day",
+    "summary": "Create a place where your dog can genuinely switch off, and a household routine that protects rest rather than repeatedly testing it.",
+    "category": "Comfort and rest",
+    "readingMinutes": 4,
+    "cover": "article_quiet_rest",
+    "coverDescription": "A dog resting on a soft bed in a quiet corner of a light room.",
+    "featured": false,
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "A comfortable bed is a useful object; a place where rest is respected is an everyday agreement. Think about both the physical corner and what happens around it. **Quiet time is part of care**, not an empty gap that must immediately be filled with another game."
+      },
+      {
+        "type": "heading",
+        "text": "Observe before rearranging"
+      },
+      {
+        "type": "paragraph",
+        "text": "Notice where your dog already settles at different times. Is the favourite place near you, away from a doorway or on a different surface? Make a simple map of two or three chosen places. Your dog’s choices can tell you more about a useful setup than the spot where a bed looks best in a photograph."
+      },
+      {
+        "type": "paragraph",
+        "text": "This is an observation exercise, not a demand to sleep in a prescribed location. Some dogs prefer company nearby; others choose a little more distance. Avoid treating one preference as a universal rule for every dog in the household."
+      },
+      {
+        "type": "heading",
+        "text": "Look at the whole corner"
+      },
+      {
+        "type": "paragraph",
+        "text": "Choose a comfortable surface with enough room to change position. Consider nearby doors, household traffic, sudden sounds, sunlight and temperature. A dog should not need to dodge feet or repeatedly get up so somebody can reach a cupboard."
+      },
+      {
+        "type": "paragraph",
+        "text": "Try changing one feature at a time. For example, move the bed away from a busy passage while keeping familiar bedding. Note whether the dog chooses to investigate or rest there. A new bed does not need to be introduced as a command or a challenge."
+      },
+      {
+        "type": "callout",
+        "title": "A household agreement",
+        "text": "When the dog is resting, leave them undisturbed. Tell visitors the same rule and give children active adult supervision instead of expecting them to interpret every signal."
+      },
+      {
+        "type": "heading",
+        "text": "Make it easy to stop participating"
+      },
+      {
+        "type": "bullet",
+        "text": "Keep an accessible route to the resting place rather than putting it behind a crowd of people."
+      },
+      {
+        "type": "bullet",
+        "text": "Avoid using the bed as a place to send the dog for punishment or an unwanted procedure."
+      },
+      {
+        "type": "bullet",
+        "text": "Let the dog change position or choose another suitable resting spot; staying still is not the whole meaning of relaxation."
+      },
+      {
+        "type": "image",
+        "asset": "article_rest_corner",
+        "description": "A dog bed beside a lamp and folded blanket, away from the room’s main walkway.",
+        "caption": "A quiet corner works best when the household also protects its quietness."
+      },
+      {
+        "type": "heading",
+        "text": "Practise calm moments without a performance"
+      },
+      {
+        "type": "paragraph",
+        "text": "You can sit nearby and allow an easy pause after an ordinary activity. Notice comfortable, unhurried behaviour without repeatedly calling the dog back to attention. If you use rewards, offer them quietly and adapt the exercise if waiting for the next treat keeps the dog alert rather than relaxed."
+      },
+      {
+        "type": "paragraph",
+        "text": "A familiar mat can be helpful for some dogs, but it is not a guarantee of calm in a busy new place. Start with an easy environment and change demands gradually. The option to pause or leave should remain real."
+      },
+      {
+        "type": "heading",
+        "text": "Keep a short evening note"
+      },
+      {
+        "type": "paragraph",
+        "text": "Use three prompts: “where did rest happen?”, “what disturbed it?” and “what can we change?”. Perhaps the bed was fine, but the evening delivery repeatedly brought people through the same doorway. Managing that routine may be more helpful than buying another bed."
+      },
+      {
+        "type": "paragraph",
+        "text": "Do not turn the note into a rigid sleep score or compare your dog with an online hourly quota. If settling suddenly becomes difficult, or you notice discomfort or a persistent change, talk to your vet rather than assuming the answer is stricter training."
+      },
+      {
+        "type": "heading",
+        "text": "Leave something unplanned"
+      },
+      {
+        "type": "paragraph",
+        "text": "A calm home still contains movement, visitors and play. Your goal is not silence at all times, but a dependable way to step out of the action. Keep the quiet corner available even on the days when everything else changes."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Dogs Trust · Helping your dog settle",
+        "url": "https://www.dogstrust.org.uk/dog-advice/training/unwanted-behaviours/hyperactive-and-restlessness"
+      },
+      {
+        "title": "Battersea · Calm and relaxed",
+        "url": "https://www.battersea.org.uk/pet-advice/dog-advice/my-dog-wont-settle-teaching-your-dog-be-calm-and-relaxed"
+      },
+      {
+        "title": "Dogs Trust · Living happily together",
+        "url": "https://www.dogstrust.org.uk/downloads/living-happily-together-guide-2024.pdf"
+      }
+    ]
+  },
+  {
+    "id": "car-travel",
+    "title": "Ready for the road, without the rush",
+    "summary": "A practical plan for familiarising your dog with the car, packing thoughtfully and making the journey comfortable for everyone.",
+    "category": "Small adventures",
+    "readingMinutes": 4,
+    "cover": "article_car_travel",
+    "coverDescription": "A dog in a correctly fitted travel harness on a stationary car’s rear seat.",
+    "featured": false,
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "A relaxed journey begins before the engine starts. Packing, getting into the vehicle, travelling and arriving are separate experiences for a dog. Treat them as **small stages you can prepare**, rather than expecting one long trip to teach everything at once."
+      },
+      {
+        "type": "heading",
+        "text": "Plan around the dog, too"
+      },
+      {
+        "type": "paragraph",
+        "text": "Before choosing the route, think about access to the car, suitable stopping places and what happens on arrival. Keep the first practice separate from a time-critical appointment whenever possible. Write a small plan with a comfortable option to stop and try another day."
+      },
+      {
+        "type": "paragraph",
+        "text": "If your dog is already frightened of the car, becomes travel-sick or has health needs that affect travel, discuss a plan with your vet early. An article is not a reason to give medication or copy another dog’s travel routine."
+      },
+      {
+        "type": "heading",
+        "text": "Make the parked car familiar"
+      },
+      {
+        "type": "paragraph",
+        "text": "Begin with an easy encounter around a safely parked vehicle, away from traffic and exhaust fumes. Let the dog investigate at a comfortable distance. Introduce getting in, sitting in the secured travel space and leaving again as separate steps, with rewards that suit the dog."
+      },
+      {
+        "type": "paragraph",
+        "text": "Only add engine noise and short journeys when the previous stage is comfortable. There is no universal number of sessions or a compulsory driving duration. A quiet return home after one manageable step is a valid practice session."
+      },
+      {
+        "type": "callout",
+        "title": "Prepare before opening the door",
+        "text": "Put your own belongings in place first. Keep control of the dog during entry and exit, and check the surroundings before giving them access to an open vehicle door."
+      },
+      {
+        "type": "heading",
+        "text": "Choose a secure travel setup"
+      },
+      {
+        "type": "bullet",
+        "text": "Use an appropriate vehicle restraint or securely installed crate, following the manufacturer’s instructions and suitable professional advice."
+      },
+      {
+        "type": "bullet",
+        "text": "Do not attach a vehicle restraint to a neck collar or leave the dog loose where they can distract the driver."
+      },
+      {
+        "type": "bullet",
+        "text": "Make sure the dog has a comfortable position, ventilation and no unsecured luggage that could move into their space."
+      },
+      {
+        "type": "image",
+        "asset": "article_travel_kit",
+        "description": "A travel bag with water, bowl, lead, familiar blanket and a document folder.",
+        "caption": "Pack the things that make transitions easier, not only the things needed at the destination."
+      },
+      {
+        "type": "heading",
+        "text": "Pack a transition kit"
+      },
+      {
+        "type": "paragraph",
+        "text": "An original packing checklist can have three headings: “getting out”, “taking a break” and “arriving”. Put the lead and waste bags where you can reach them before opening the door. Add water and a bowl, a familiar blanket and any records or supplies needed for this particular outing."
+      },
+      {
+        "type": "paragraph",
+        "text": "Check identification details and keep relevant contacts available. For borders, public transport or commercial carriers, verify current official rules separately; requirements depend on the actual journey. Do not assume that a general article confirms permission to travel."
+      },
+      {
+        "type": "heading",
+        "text": "Keep the journey adaptable"
+      },
+      {
+        "type": "paragraph",
+        "text": "Plan appropriate breaks for water, toileting and comfortable movement. Stop in a safe place if you need to attend to the dog; the driver should not turn around to handle a problem while moving. Keep dogs away from open windows where they could put their heads out."
+      },
+      {
+        "type": "paragraph",
+        "text": "Never leave a dog unattended in a parked car. In warm conditions a vehicle can become dangerous quickly; an open window is not a plan for keeping a dog safe. Change the outing if you cannot arrange safe supervision and suitable conditions."
+      },
+      {
+        "type": "heading",
+        "text": "Give arrival its own moment"
+      },
+      {
+        "type": "paragraph",
+        "text": "After parking safely, put the lead on and check the surroundings before letting the dog out. Allow a quiet pause instead of immediately adding a crowded welcome. Later, note one stage that worked and one thing to make easier next time. The aim is a predictable journey, not simply reaching the destination."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Blue Cross · Car travel with your dog",
+        "url": "https://www.bluecross.org.uk/advice/dog/travelling-with-your-dog-by-car"
+      },
+      {
+        "title": "RSPCA · Transporting your pet",
+        "url": "https://www.rspca.org.uk/documents/1494939/7712578/Pets_Transporting%20your%20pet%20220814x.pdf/29d87515-6b0e-9e2d-f396-c4672856e7ef?t=1553170129690"
+      },
+      {
+        "title": "Blue Cross · Moving house and travelling",
+        "url": "https://www.bluecross.org.uk/advice/dog/moving-house-and-travelling-with-dogs"
+      },
+      {
+        "title": "Dogs Trust · Car travel",
+        "url": "https://www.dogstrust.org.uk/dog-advice/training/outdoors/car-travel"
+      }
+    ]
+  }
+]
